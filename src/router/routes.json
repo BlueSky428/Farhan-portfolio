@@ -12,6 +12,14 @@
         "component": "About"
     },
     {
+        "path": "/experience",
+        "component": "Experience"
+    },
+    {
+        "path": "/education",
+        "component": "Education"
+    },
+    {
         "path": "/projects",
         "component": "Projects"
     },

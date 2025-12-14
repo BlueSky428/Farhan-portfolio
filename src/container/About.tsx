@@ -7,7 +7,7 @@ const About: FC = () => {
             <div className="lg:w-[60%] md:w-[60%] w-full flex flex-col justify-center items-start text-white lg:gap-14 md:gap-12 sm:gap-10 gap-8">
                 <div className="w-full flex flex-col justify-start items-center">
                     <h1 className="text-4xl text-white font-bold tracking-wider lg:leading-snug font-[cursive] mb-8">I'm
-                        Farhan Rizal. I live in Malaysia, where I build the future.
+                        Farhan Rizal. I live in Indonesia, where I build the future.
                     </h1>
                     {
                         MyIntroContent.map((item, index) => (

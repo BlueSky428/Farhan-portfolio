@@ -3,6 +3,12 @@ export const HeaderCategoryData = [
         title: "About"
     },
     {
+        title: "Experience"
+    },
+    {
+        title: "Education"
+    },
+    {
         title: "Projects"
     },
     {
@@ -20,14 +26,14 @@ export const WorkExperienceData = [
     },
     {
         id: 1,
-        company: "Bthrust | Malaysia",
+        company: "Bthrust | Indonesia",
         role: "Full Stack Developer",
         term: "NOV 2021 - DEC 2023",
         img: "/images/Company/Bthrust.png"
     },
     {
         id: 1,
-        company: "Power Technologies | Malaysia",
+        company: "Power Technologies | Indonesia",
         role: "Frontend Web Developer",
         term: "Apr 2017 - Dec 2020",
         img: "/images/Company/Power Technologies.png"
@@ -74,6 +80,25 @@ export const WorkExperienceContent = [
     {
         parentID: 2,
         content: "Utilized distributed systems principles to design and develop decentralized applications"
+    }
+]
+
+export const EducationData = [
+    {
+        id: 0,
+        institution: "Universitas Indonesia",
+        degree: "Bachelor's Degree in Computer Science",
+        field: "Computer Science & Software Engineering",
+        term: "2013 - 2017",
+        description: "Focused on software development, algorithms, data structures, and web technologies. Completed projects in full-stack development and database management. Gained strong foundation in programming principles, software engineering practices, and system design."
+    },
+    {
+        id: 1,
+        institution: "Online Learning Platforms",
+        degree: "Self-Taught & Continuous Learning",
+        field: "Web Development & Blockchain",
+        term: "2017 - Present",
+        description: "Continuous learning through online courses, documentation, and hands-on projects. Specialized in React, Node.js, TypeScript, and blockchain technologies. Stayed updated with latest industry trends and best practices."
     }
 ]
 
