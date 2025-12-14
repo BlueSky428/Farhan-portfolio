@@ -36,7 +36,7 @@ const SocialLinks = () => {
             rel="noopener noreferrer"
             target="_blank"
             className="flex items-center border-zinc-200 group text-white"
-            href="mailto:farhanrizal1104@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=farhanrizal1104@gmail.com"
           >
             <svg
               fill="#FFFFFF"

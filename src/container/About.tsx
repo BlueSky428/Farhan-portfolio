@@ -4,19 +4,6 @@ import { MyIntroContent, MySkillsCategory, MySkills } from "../data/Data";
 const About: FC = () => {
     return (
         <div className="w-full max-w-7xl flex justify-center items-start lg:mt-56 md:mt-52 sm:mt-36 mt-32 px-6 gap-6 lg:flex-row md:flex-row flex-col">
-            <div className="sm:w-[40%] w-full lg:hidden md:hidden flex flex-col justify-start items-start gap-4">
-                <img src="/images/user.jpg" alt="" className="w-full rounded-lg" />
-                <div className="w-full flex justify-center items-center gap-3">
-                    <div className="w-[87%] flex justify-center items-center py-3 bg-[#19191e] cursor-pointer hover:border-[#27272a] border border-[#19191e] rounded-lg">
-                        <span className="text-white text-xl font-bold">View Resume</span>
-                    </div>
-                    <div className="w-[13%] flex justify-center items-center py-3 bg-[#19191e] rounded-lg hover:border-[#27272a] border border-[#19191e] cursor-pointer">
-                        <a href="">
-                            <svg stroke="currentColor" fill="#33e092" strokeWidth="0" viewBox="0 0 24 24" className="text-lg" aria-label="Download Resume" height="1.5em" width="1.5em" xmlns="http://www.w3.org/2000/svg"><path d="M19 9h-4V3H9v6H5l7 8zM4 19h16v2H4z"></path></svg>
-                        </a>
-                    </div>
-                </div>
-            </div>
             <div className="lg:w-[60%] md:w-[60%] w-full flex flex-col justify-center items-start text-white lg:gap-14 md:gap-12 sm:gap-10 gap-8">
                 <div className="w-full flex flex-col justify-start items-center">
                     <h1 className="text-4xl text-white font-bold tracking-wider lg:leading-snug font-[cursive] mb-8">I'm
@@ -94,19 +81,6 @@ const About: FC = () => {
                             </div>
                         ))
                     }
-                </div>
-            </div>
-            <div className="w-[40%] flex-col justify-start items-start pl-4 gap-4 lg:flex md:flex sm:hidden hidden">
-                <img src="/images/user.jpg" alt="" className="w-full rounded-lg" />
-                <div className="w-full flex justify-center items-center gap-3">
-                    <div className="w-[87%] flex justify-center items-center py-3 bg-[#19191e] cursor-pointer hover:border-[#27272a] border border-[#19191e] rounded-lg">
-                        <span className="text-white text-xl font-bold">View Resume</span>
-                    </div>
-                    <div className="w-[13%] flex justify-center items-center py-3 bg-[#19191e] rounded-lg hover:border-[#27272a] border border-[#19191e] cursor-pointer">
-                        <a href="">
-                            <svg stroke="currentColor" fill="#33e092" strokeWidth="0" viewBox="0 0 24 24" className="text-lg" aria-label="Download Resume" height="1.5em" width="1.5em" xmlns="http://www.w3.org/2000/svg"><path d="M19 9h-4V3H9v6H5l7 8zM4 19h16v2H4z"></path></svg>
-                        </a>
-                    </div>
                 </div>
             </div>
         </div>

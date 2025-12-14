@@ -3,12 +3,6 @@ export const HeaderCategoryData = [
         title: "About"
     },
     {
-        title: "Experience"
-    },
-    {
-        title: "Education"
-    },
-    {
         title: "Projects"
     },
     {
@@ -531,50 +525,4 @@ export const MyProjectDetails = [
         ],
         liveURL: "https://blockchainpeer.netlify.app/"
     },
-]
-
-export const EducationData = [
-    {
-        id: 0,
-        institution: "University of Technology Malaysia",
-        degree: "Bachelor of Computer Science",
-        field: "Software Engineering",
-        term: "2013 - 2017",
-        img: "/images/Company/upwork.png"
-    },
-    {
-        id: 1,
-        institution: "Online Learning Platforms",
-        degree: "Certifications & Continuous Learning",
-        field: "Web Development & Blockchain",
-        term: "2017 - PRESENT",
-        img: "/images/Company/Bthrust.png"
-    }
-]
-
-export const EducationContent = [
-    {
-        parentID: 0,
-        content: "Completed comprehensive coursework in software engineering, data structures, algorithms, and database management systems"
-    },
-    {
-        parentID: 0,
-        content: "Specialized in web development technologies including HTML, CSS, JavaScript, and modern frameworks"
-    },
-    {
-        parentID: 0,
-        content: "Participated in various software development projects and collaborated with teams to build real-world applications"
-    },
-    {
-        parentID: 1,
-        content: "Completed advanced courses in React.js, Next.js, TypeScript, and modern frontend development practices"
-    },
-    {
-        parentID: 1,
-        content: "Obtained certifications in blockchain technology and decentralized application development"
-    },
-    {
-        parentID: 1,
-        content: "Continuously learning new technologies and frameworks to stay updated with industry trends and best practices"
-    }
 ]
