@@ -104,13 +104,13 @@ export const EducationData = [
 
 export const MyIntroContent = [
     {
-        content: "As a freelance, web developer, I love offering my clients a concierge-level service. I’m hyper-responsive, deliver quality products and offer rapid turnarounds. I offer design and idea that looks good, is user-friendly, and is very convenient. Primarily working with technologies like JavaScript, React.js, Next.js, and TypeScript."
+        content: "I'm Farhan Rizal, a passionate Full Stack and Frontend Web Developer based in Indonesia, with over 7 years of experience crafting innovative web solutions and decentralized applications. My expertise spans modern JavaScript frameworks like React.js, Next.js, and TypeScript, combined with a deep understanding of blockchain technology and distributed systems."
     },
     {
-        content: "As a remote worker, I understand how important timely deliverables and clear communication are to working together remotely. I strongly believe in continuous learning and improving myself, so I try my best to learn in any situation possible, unfavorable or not."
+        content: "Throughout my career, I've worked with diverse teams and clients globally, delivering high-quality products that drive business growth—from enterprise CRM systems that increased sales revenue by 24% to blockchain-based NFT marketplaces and DeFi platforms. As a dedicated freelancer, I pride myself on providing concierge-level service with hyper-responsive communication, rapid turnarounds, and meticulous attention to detail."
     },
     {
-        content: "Beyond learning, I enjoy writing technical articles and creating projects that both inspire and benefit fellow developers."
+        content: "My approach to development is rooted in continuous learning and staying ahead of industry trends, ensuring that every project I work on leverages the latest best practices and cutting-edge technologies. Beyond coding, I enjoy sharing knowledge through technical articles and creating open-source projects that inspire and benefit the developer community."
     }
 ]
 
