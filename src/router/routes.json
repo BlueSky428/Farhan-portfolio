@@ -1,0 +1,30 @@
+[
+    {
+        "path": "/",
+        "component": "Homepage"
+    },
+    {
+        "path": "/home",
+        "component": "Homepage"
+    },
+    {
+        "path": "/about",
+        "component": "About"
+    },
+    {
+        "path": "/experience",
+        "component": "Experience"
+    },
+    {
+        "path": "/education",
+        "component": "Education"
+    },
+    {
+        "path": "/projects",
+        "component": "Projects"
+    },
+    {
+        "path": "/contact",
+        "component": "Contact"
+    }
+]
