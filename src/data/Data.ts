@@ -104,13 +104,13 @@ export const EducationData = [
 
 export const MyIntroContent = [
     {
-        content: "I'm Farhan Rizal, a passionate Full Stack and Frontend Web Developer based in Indonesia, with over 7 years of experience crafting innovative web solutions and decentralized applications. My expertise spans modern JavaScript frameworks like React.js, Next.js, and TypeScript, combined with a deep understanding of blockchain technology and distributed systems."
+        content: "I'm Farhan Rizal, a Full Stack and Frontend Web Developer with over 7 years of professional experience, specializing in React.js, Next.js, Node.js, TypeScript, and blockchain technologies. My technical stack includes modern UI libraries like React and Redux for state management, styling with Tailwind CSS and Sass, and building full-stack applications using Next.js and Node.js runtime environments."
     },
     {
-        content: "Throughout my career, I've worked with diverse teams and clients globally, delivering high-quality products that drive business growth—from enterprise CRM systems that increased sales revenue by 24% to blockchain-based NFT marketplaces and DeFi platforms. As a dedicated freelancer, I pride myself on providing concierge-level service with hyper-responsive communication, rapid turnarounds, and meticulous attention to detail."
+        content: "My professional journey spans from Frontend Web Developer at Power Technologies (2017-2020) to Full Stack Developer at Bthrust (2021-2023), and currently as a Freelance Frontend Developer on Upwork (2024-Present). Throughout these roles, I've delivered enterprise-level solutions including CRM systems that increased sales revenue by 24%, content-rich websites serving over 1 million monthly visitors, and full-service platforms that accelerated sales cycles by 230%."
     },
     {
-        content: "My approach to development is rooted in continuous learning and staying ahead of industry trends, ensuring that every project I work on leverages the latest best practices and cutting-edge technologies. Beyond coding, I enjoy sharing knowledge through technical articles and creating open-source projects that inspire and benefit the developer community."
+        content: "I've successfully developed and deployed diverse projects ranging from e-commerce platforms like Karama and Luck (built with React, Shopify, and Remix) to blockchain applications including Picasso.to NFT marketplace, DeFi platforms like Iron Finance, and crypto gaming applications such as Defitankland and Bitstake. My expertise in blockchain technology and distributed systems has enabled me to create innovative decentralized applications that leverage smart contracts and Web3 integration."
     }
 ]
 
